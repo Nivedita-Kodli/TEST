@@ -1,0 +1,38 @@
+body{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-image: url(.IMAGES/oil-g1790e21bc_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.parallax1{
+    background-image: url(.IMAGES/squirrel-g0baf74bdd_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 300px;
+    background-attachment: fixed;
+    height: 800px;
+    width: 900px;
+    
+    font-size: 20px;
+    
+}
+.parallax1>h1{
+    text-align: center;
+}
+.parallax2{
+    background-image: url(.IMAGES/nature-gab00e47bf_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width: 900px;
+    font-size: 30px;
+    margin: 300px;
+    
+}
